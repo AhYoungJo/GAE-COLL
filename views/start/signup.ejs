@@ -3,12 +3,12 @@
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>Gae-Call</title>
+        <title>이메일 회원가입</title>
+        <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
         <link rel="stylesheet" href="../../public/css/start/signup.css" />
         <link rel="stylesheet" href="../../public/css/main.css" />
         <link rel="stylesheet" href="../../public/css/common/font.css" />
         <link href="https://fonts.googleapis.com/css2?family=Poor+Story&display=swap" rel="stylesheet" />
-        <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
     </head>
     <body>
         <main>
@@ -36,54 +36,45 @@
                         <div class="text-aria">
                             <input type="email" id="email" placeholder="이메일" class="input" required />
                         </div>
-                        <button type="button" onclick="identifyEmail()" class="button">인증번호 전송</button>
+                        <input type="button" class="button" value="인증번호 전송" onclick="emailAuth()" />
                     </div>
                     <br />
-                    <form class="main-text">
-                        <div class="email-div">
-                            <div class="text-aria">
-                                <input
-                                    type="number"
-                                    id="email-number"
-                                    placeholder="이메일 확인"
-                                    class="input"
-                                    required
-                                />
-                            </div>
-                            <button type="button" onclick="checkEmailNum()" class="ans-button">확인</button>
-                        </div>
-                        <br />
+                    <div class="email-div">
                         <div class="text-aria">
-                            <input type="password" id="password" placeholder="비밀번호" class="input" required /><br />
+                            <input type="number" id="email-number" placeholder="    인증번호" class="input" required />
                         </div>
-                        <br />
-                        <div class="text-aria">
-                            <input
-                                type="password"
-                                id="password-test"
-                                placeholder="비밀번호 확인"
-                                class="input"
-                                required
-                            />
-                        </div>
-                        <br />
-                        <select name="question" id="ans" class="text-aria">
-                            <option selected disabled hidden>이메일 확인 질문</option>
-                            <option class="ans" value="1">아버지의 성함은?</option>
-                            <option class="ans" value="2">초등학교 모교 이름?</option>
-                            <option class="ans" value="3">제일 기억에 남는 추억의 장소?</option>
-                        </select>
-                        <br />
-                        <div class="text-aria">
-                            <input type="text" placeholder="이메일 확인 답변" required class="input" />
-                        </div>
-                        <br />
-                        <button type="button" onclick="signup-complate()"></button>
-                        <input type="submit" value="회원 가입 완료" id="signup-submit" />
-                    </form>
+                        <input
+                            type="button"
+                            id="email-auth-btn"
+                            class="ans-button hidden"
+                            value="인증번호 확인"
+                            onclick="checkEmailAuthNum()"
+                        />
+                    </div>
+                    <br />
+                    <div class="text-aria">
+                        <input type="password" id="password" placeholder="비밀번호" class="input" required /><br />
+                    </div>
+                    <br />
+                    <div class="text-aria">
+                        <input type="password" id="password-test" placeholder="비밀번호 확인" class="input" required />
+                    </div>
+                    <br />
+                    <select name="question" id="ans" class="text-aria">
+                        <option selected disabled hidden>이메일 확인 질문</option>
+                        <option class="ans" value="1">아버지의 성함은?</option>
+                        <option class="ans" value="2">초등학교 모교 이름?</option>
+                        <option class="ans" value="3">제일 기억에 남는 추억의 장소?</option>
+                    </select>
+                    <br />
+                    <div class="text-aria">
+                        <input type="text" placeholder="이메일 확인 답변" required class="input" />
+                    </div>
+                    <br />
+                    <input type="button" value="회원 가입 완료" id="signup-submit" onclick="emailSignup()" />
                 </form>
             </div>
         </main>
+        <script src="../../public/js/start/signup.js"></script>
     </body>
-    <script src="../../public/js/start/signup.js"></script>
 </html>
