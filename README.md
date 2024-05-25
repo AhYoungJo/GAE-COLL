@@ -32,6 +32,12 @@
 <br/>
 
 
+## 추가 예정 기능
+
+- 1:1 또는 팀원들과 실시간으로 소통할 수 있는 채팅 기능
+
+<br/>
+
 ## 기술 스택
 <img src="https://img.shields.io/badge/html5-E34F26?style=badge&logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/css-1572B6?badge&logo=css3&logoColor=white"> 
