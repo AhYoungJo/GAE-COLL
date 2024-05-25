@@ -19,7 +19,7 @@
 
 ## 스케줄 관리와 더불어 소통까지!
 기관의 현재 진행중인 활동과 완료된 활동을 보여주는 페이지
-![GaeColl_theRestPages](https://github.com/AhYoungJo/Weather-Forecast-Weabsite/assets/125351416/63435769-30b7-4ad9-a21b-0ec7a52e2ca1)
+![GaeColl_theRestPages](https://github.com/AhYoungJo/GAE-COLL/assets/125351416/806c2d88-5e36-41c3-83ee-2ab64b214bd3)
 
 ### Team
 |<img src="https://avatars.githubusercontent.com/u/125351416?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/153169614?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/148196351?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/154851741?v=4" width="150" height="150"/>
