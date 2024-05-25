@@ -19,11 +19,15 @@
 ![GaeColl_theRestPages](https://github.com/AhYoungJo/GAE-COLL/assets/125351416/1bcac7b9-b210-45a6-91e4-fe64df566547)
 
 
-### Team
-|<img src="https://avatars.githubusercontent.com/u/125351416?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/153169614?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/148196351?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/154851741?v=4" width="150" height="150"/>
-|:-:|:-:|:-:|:-:|
-|조아영<br/>[@AhYoung_Jo](https://github.com/AhYoungJo)|남현경<br/>[@HYUNKYUNG_NAM](https://github.com/Hyunkyung-Nam)|나선경<br/>[@seonseon1515](https://github.com/seonseon1515)|오승용<br/>[@12jason0](https://github.com/12jason0)
+### Backend
+<img src="https://avatars.githubusercontent.com/u/153169614?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/125351416?v=4" width="150" height="150"/>|
+|:-:|:-:|
+|남현경(Leader)<br/>[@HYUNKYUNG_NAM](https://github.com/Hyunkyung-Nam)|조아영<br/>[@AhYoung_Jo](https://github.com/AhYoungJo)|
 
+### FrontEnd
+|<img src="https://avatars.githubusercontent.com/u/125351416?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/148196351?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/154851741?v=4" width="150" height="150"/>
+|:-:|:-:|:-:|
+|조아영<br/>[@AhYoung_Jo](https://github.com/AhYoungJo)|나선경<br/>[@seonseon1515](https://github.com/seonseon1515)|오승용<br/>[@12jason0](https://github.com/12jason0)
 
 <br/>
 
