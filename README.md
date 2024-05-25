@@ -12,14 +12,12 @@
 <br/>
 
 ## 프로젝트를 생성하고 관리해보세요🔥
-웹 사이트 전체 내용을 함축해놓은 페이지
-
 ![GaeCollIntro png](https://github.com/AhYoungJo/Weather-Forecast-Weabsite/assets/125351416/cc0d23f7-53bc-42d5-bd47-2bde6bba3207)
 
 
 ## 스케줄 관리와 더불어 소통까지!
-기관의 현재 진행중인 활동과 완료된 활동을 보여주는 페이지
-![GaeColl_theRestPages](https://github.com/AhYoungJo/GAE-COLL/assets/125351416/806c2d88-5e36-41c3-83ee-2ab64b214bd3)
+![GaeColl_theRestPages](https://github.com/AhYoungJo/GAE-COLL/assets/125351416/1bcac7b9-b210-45a6-91e4-fe64df566547)
+
 
 ### Team
 |<img src="https://avatars.githubusercontent.com/u/125351416?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/153169614?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/148196351?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/154851741?v=4" width="150" height="150"/>
