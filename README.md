@@ -5,19 +5,29 @@
 이제 막 개발에 발을 들인 개발자들도 쉽게 이용할 수 있는 프로젝트 협업 툴입니다.
 
 ### [🔗회고록](https://velog.io/@double29/%EB%91%90-%EB%B2%88%EC%A7%B8-%ED%98%91%EC%97%85-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
-
 ### [🔗회의록](https://www.notion.so/77216c75defe4753a6c6e0ba2f71e6f6)
 ### [🔗API명세서](https://www.notion.so/API-1e7d4ff29eef44c0ab9a08bff895f932)
 
 <br/>
 
-## 프로젝트를 생성하고 관리해보세요🔥
-![GaeCollIntro png](https://github.com/AhYoungJo/Weather-Forecast-Weabsite/assets/125351416/cc0d23f7-53bc-42d5-bd47-2bde6bba3207)
+
+# 핵심 기능: 
+## (1) 프로젝트 전체 조회
 
 
-## 스케줄 관리와 더불어 소통까지!
-![GaeColl_theRestPages](https://github.com/AhYoungJo/GAE-COLL/assets/125351416/1bcac7b9-b210-45a6-91e4-fe64df566547)
+![projectMain](https://github.com/AhYoungJo/GAE-COLL/assets/125351416/acd89450-1567-4abb-bdf4-543e77a8eda2)
 
+![프로젝트1개 전체 페이지](https://github.com/AhYoungJo/GAE-COLL/assets/125351416/d67c4042-669b-4c6c-8c71-1f03fd0c3df8)
+
+<br/>
+
+## (2) 프로젝트 이슈 작성 및 조회
+
+<br/>
+
+![ProjectIssuePages](https://github.com/AhYoungJo/GAE-COLL/assets/125351416/dcbc390d-a812-470e-b43b-1f416320c6f6)
+
+<br/>
 
 ### Backend
 <img src="https://avatars.githubusercontent.com/u/153169614?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/125351416?v=4" width="150" height="150"/>|
